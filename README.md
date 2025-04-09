@@ -77,6 +77,8 @@ Plagiarism Acknowledgement: I certify that I have listed all sources used to com
 
 Citations: 
 
+Previous Exercises test code and yml files to help me figure out how to actually set up and use workflows properly, ha.
+
 https://nodejs.org/api/assert.html
 
 https://www.w3schools.com/nodejs/met_assert_strictequal.asp

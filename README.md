@@ -27,22 +27,51 @@ answer, including your reasoning, to this markdown file.
 
 //
 
+
 Name: Kane Kriz
 
 Start Date: 19 March 2025
 
-Last Edited: 25 March 2025
+Last Edited: 9 April 2025
 
 Feedback Request 1 Date: X
 
-//
-
-
-Response: Incomplete
-
 
 //
+
+
+Response: WIP
+
+First, before analysing the overall asymptotic complexity of the implementation, we can consider step by step what the functionality of the implementation is and build outward with reasoning / conclusions.
+
+Consider the outermost layer of the implementation, being the prescence of three distinct functions within the file.
+
+These functions are titled...
+
+The functionality of function A is to...
+
+The work associated with function A is
+
+The functionality of helper function B is to...
+
+The work associated with helper function B is
+
+The functionality of helper function C is to...
+
+The work associated with helper function C is
+
+Now that we have considered the functionality and necessary work of the three function components of the Dijkstra implementation, we can begin to solve for the overall asymptotic complexity of the implementation.
+
+First,
+
+...
+
+Due to this, the overall big theta complexity of the implementation can be solved as
+
+
+//
+
 
 Plagiarism Acknowledgement: I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
-Citations:
+Citations: WIP

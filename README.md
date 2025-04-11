@@ -40,7 +40,8 @@ Feedback Request 1 Date: 11 April 2025
 //
 
 
-Response: WIP
+Response:
+
 
 First, before analyzing the overall asymptotic complexity of the implementation, we can consider step by step the functionality of the code and build outward with reasoning and conclusions.
 
@@ -88,22 +89,24 @@ Due to this, the overall big theta complexity of the implementation is $Θ(V^2)$
 Plagiarism Acknowledgement: I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
 
+
 Citations: 
+
 
 Previous Exercises test code and yml files to help me figure out how to actually set up and use workflows properly, ha.
 
-Test code help - https://nodejs.org/api/assert.html
+Test code help, assert overall.      |      “Assert | Node.js V23.11.0 Documentation.” Nodejs.org, 2018, nodejs.org/api/assert.html. Accessed 11 Apr. 2025.
 
-Test code help - https://www.w3schools.com/nodejs/met_assert_strictequal.asp
+Test code help, strictequal.      |      “W3Schools.com.” W3schools.com, 2025, www.w3schools.com/nodejs/met_assert_strictequal.asp. Accessed 11 Apr. 2025.
 
-Test code help - https://www.w3schools.com/nodejs/met_assert_deepequal.asp
+Test code help, deepequal.      |      “W3Schools.com.” W3schools.com, 2025, www.w3schools.com/nodejs/met_assert_deepequal.asp. Accessed 11 Apr. 2025.
 
-Test code help - https://www.w3schools.com/nodejs/met_assert_deepstrictequal.asp
+Test code help, more w/ assert, deepstrictequal.      |      “W3Schools.com.” W3schools.com, 2025, www.w3schools.com/nodejs/met_assert_deepstrictequal.asp. Accessed 11 Apr. 2025.
 
-Test code help, creating a workflow properly - https://docs.github.com/en/actions/use-cases-and-examples/creating-an-example-workflow
+Test code help, creating a workflow properly.      |      “Creating an Example Workflow - GitHub Docs.” GitHub Docs, 2025, docs.github.com/en/actions/use-cases-and-examples/creating-an-example-workflow. Accessed 11 Apr. 2025.
 
-More psuedocode, visualization of dijkstra's - https://www.programiz.com/dsa/dijkstra-algorithm
+More psuedocode, visualization of dijkstra's.      |      Programiz. “Dijkstra’s Algorithm.” Programiz.com, 2019, www.programiz.com/dsa/dijkstra-algorithm.
 
-Logic help, psuedocode - https://pages.cs.wisc.edu/~jsingh/
+Logic help where applicable, psuedocode.      |      Singh, Jay. “Dijkstra’s Algorithm.” Wisc.edu, 2025, pages.cs.wisc.edu/~jsingh/. Accessed 11 Apr. 2025.
 
 
